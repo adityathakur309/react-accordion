@@ -1,0 +1,26 @@
+{
+    "faq": [
+      {
+        "id":1,
+        "question": "What is HTML?",
+        "answer": "HTML (Hypertext Markup Language) is the standard markup language for creating web pages. It is used to structure content on the web."
+      },
+      {"id":2,
+        "question": "What is the difference between front-end and back-end development?",
+        "answer": "Front-end development refers to the part of a website that users interact with, while back-end development involves server-side logic, databases, and application functionality."
+      },
+      {"id":3,
+        "question": "What is responsive web design?",
+        "answer": "Responsive web design is an approach to web design that makes web pages render well on a variety of devices and screen sizes by using flexible layouts, images, and CSS media queries."
+      },
+      {"id":4,
+        "question": "What are CSS frameworks?",
+        "answer": "CSS frameworks like Bootstrap and Tailwind provide pre-written CSS code that helps in building responsive and consistent layouts quickly, without writing custom CSS from scratch."
+      },
+      {"id":5,
+        "question": "What is a REST API?",
+        "answer": "A REST API (Representational State Transfer) is a web service that allows interaction with servers through HTTP requests to GET, POST, PUT, or DELETE data."
+      }
+    ]
+  }
+  
